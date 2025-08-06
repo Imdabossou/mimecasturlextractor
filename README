@@ -3,3 +3,5 @@ Brings up an interface for copying and pasting the link from it.
 
 BUILD:
 pyinstaller --onefile --windowed --clean mimecast_url_extractor.py
+
+Yes doing it this way is not very efficient, the .exe is 10MB, but it works.
