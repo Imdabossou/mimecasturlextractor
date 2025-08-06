@@ -1,2 +1,5 @@
 For opening "Mimecast Large File Send Instructions" files.
 Brings up an interface for copying and pasting the link from it.
+
+BUILD:
+pyinstaller --onefile --windowed --clean mimecast_url_extractor.py
